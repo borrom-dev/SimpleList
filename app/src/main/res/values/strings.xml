@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AndroidUI</string>
+
+    <string-array name="books">
+        <item>The Lean Startup; Eric Ries; 4.3</item>
+        <item>How Little Things Can Make a Big Difference; Malcolm Gladwell; 4.3</item>
+        <item>Rework; Jason Fried; 4.3</item>
+        <item>How to Win Friends and Influence People; Dale Carnegie; 5.0</item>
+        <item>The 4-Hour Workweek; Timothy Ferris; 4.3</item>
+        <item>Rich Dad, Poor Dad; Robert T.Kiyosaki; 4.3</item>
+        <item>Women, Work, and the Will to Lead; Sheryl Sandberg; 4.3</item>
+        <item>Getting Things Done; David Allen; 4.3</item>
+        <item>Start with Why; Simon Sinek; 4.3</item>
+        <item>Made to Stick; Chip Heath; 4.3</item>
+        <item>Who Moved My Cheese; Spacer Johnson; 4.3</item>
+        <item>Steve Jobs; Walter Isaacson; 4.3</item>
+        <item>Blink: The Power of Thinking Without Thinking; Malcolm Gladwell; 4.3</item>
+        <item>Drive: The Surprising Truth About What Motivates Us; Daneil H. Pink; 4.3</item>
+        <item>Delivering Happiness: A Path to Profits, Passion, and Purpose; Tony Hsieh; 4.3</item>
+        <item>The Five Dysfunctions of a Team; Patrick Lecioni; 4.3</item>
+        <item>Creativity, Inc;Ed Catmull; 4.3</item>
+        <item>Zero to One: Notes on Startup; Peter Thiel; 4.3</item>
+        <item>The $100 Startup; Michael Lewis; 4.3</item>
+    </string-array>
+</resources>
